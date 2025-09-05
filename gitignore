@@ -1,0 +1,11 @@
+# Ignore VSCode settings
+.vscode/
+
+# Ignore node modules (if you add npm later)
+node_modules/
+
+# Ignore OS/System files
+.DS_Store
+Thumbs.db
+desktop.ini
+AppData/
